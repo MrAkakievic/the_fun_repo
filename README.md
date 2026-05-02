@@ -6,7 +6,7 @@ haha
 hihi
 ### It's a serious repo
 hoho
-> **Why <sup>do<sup> you _read_ this**?
+> **Why <sup>do</sup> you _read_ this**?
 ### Very serious
 huhu
 ## It's not recognizable how much this repository matters for the world
