@@ -13,3 +13,12 @@ huhu
 hhhh
 ### Hehe
 ch
+
+
+
+# Now about MAX messenger
+
+Do you know the MAX messenger?
+What, you're seriously?
+! This is the super secure and private peer-to-peer network messanger !
+Whant to install just now? Get the [link](https://max.ru/)!
