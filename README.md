@@ -4,8 +4,9 @@ hehe
 haha
 ### This is a serious repo what the fun you saw here
 hihi
-### It's serious repo
+### It's a serious repo
 hoho
+> **Why <sup>do<sup> you _read_ this**?
 ### Very serious
 huhu
 ## It's not recognizable how much this repository matters for the world
